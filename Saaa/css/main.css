@@ -1,0 +1,21 @@
+.box {
+  width: 500px;
+  height: 200px;
+  border: 1px solid blcak; }
+  .box .main {
+    width: 100px; }
+  .box .footer {
+    width: 400px;
+    color: red;
+    background: black;
+    padding: 30px; }
+    .box .footer .footerL {
+      height: 300px; }
+    .box .footer .footerR {
+      color: red;
+      background: auto;
+      height: 300px;
+      width: 300px;
+      color: red; }
+
+/*# sourceMappingURL=main.css.map */

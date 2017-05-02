@@ -1,0 +1,25 @@
+.box{
+    width: 500px;
+    height: 200px;
+    border: 1px solid blcak;
+    .main{
+        width: 100px;
+        
+    }
+    .footer{
+        width: 400px;
+        color: red;
+        background: black;
+        padding: 30px;
+        .footerL{
+            height: 300px;
+        }
+        .footerR{
+            color: red;
+            background: auto;
+            height: 300px;
+            width: 300px;
+            color: red;
+        }
+    }
+}
