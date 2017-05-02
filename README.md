@@ -4,3 +4,5 @@
 ### 步骤
 * hbuilder 菜单"工具"->"选项"->"预编译器"
 * 若没有此文件可添加
+
+![添加文件说明](https://github.com/heyushuo/HBuilder/blob/master/aa.png)
