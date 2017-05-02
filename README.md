@@ -6,3 +6,11 @@
 * 若没有此文件可添加
 
 ![添加文件说明](https://github.com/heyushuo/HBuilder/blob/master/aa.png)
+
+* 进行位置配置
+
+![配置详情](https://github.com/heyushuo/HBuilder/blob/master/bb.png)
+
+  * --no-cache %ProjectDir%\sass\%FileName% %ProjectDir%\css\%FileBaseName%.css
+  
+## 有不懂得可以互相交流
