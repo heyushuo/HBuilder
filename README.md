@@ -14,3 +14,6 @@
   * --no-cache %ProjectDir%\sass\%FileName% %ProjectDir%\css\%FileBaseName%.css
   
 ## 有不懂得可以互相交流
+
+
+##Sass文件夹中的main.scss文件包含了sass的用法
